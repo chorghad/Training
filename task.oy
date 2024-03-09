@@ -1,0 +1,3 @@
+print("--------------------Result------------------")
+name=input("Enter your Name: ")
+print(name,             "div:A")      
